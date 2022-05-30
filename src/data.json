@@ -1,0 +1,456 @@
+[
+  {
+    "friends": [
+      {
+        "id": 0,
+        "name": "Vazquez Smith",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$2,090.32",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 1,
+        "name": "Sharp Bright",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,809.60",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 2,
+        "name": "Delacruz York",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$3,512.25",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 3,
+        "name": "Bridges Warren",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$1,415.71",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 4,
+        "name": "Miranda Mcintosh",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,884.73",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 5,
+        "name": "Freida Grant",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$1,986.76",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 6,
+        "name": "Smith Durham",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$1,046.83",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 7,
+        "name": "Armstrong Mccormick",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$2,900.62",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 8,
+        "name": "Riggs Brady",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$1,511.89",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 9,
+        "name": "Duncan Vincent",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$1,103.64",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 10,
+        "name": "Claire Carrillo",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$2,124.89",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 11,
+        "name": "Marla Velez",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$2,298.83",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 12,
+        "name": "Jewel Hays",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$1,176.01",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 13,
+        "name": "Frankie Johnston",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,302.62",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 14,
+        "name": "Mendez Ferrell",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$2,789.13",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 15,
+        "name": "Solomon Jenkins",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$1,040.02",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 16,
+        "name": "Carey Collier",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$1,040.43",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 17,
+        "name": "Priscilla Hobbs",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,495.77",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 18,
+        "name": "Roth Moore",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$2,398.11",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 19,
+        "name": "Mccoy Kline",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,389.47",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 20,
+        "name": "Hattie Cook",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$2,842.39",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 21,
+        "name": "Ferrell Saunders",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$2,045.26",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 22,
+        "name": "Harrington Hale",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$2,799.69",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 23,
+        "name": "Farrell Livingston",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$1,693.43",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 24,
+        "name": "Ellison Delgado",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$1,778.67",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 25,
+        "name": "Burns Booker",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$1,589.17",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 26,
+        "name": "Harrison Drake",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$1,928.32",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 27,
+        "name": "Sheri Joseph",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$3,855.71",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 28,
+        "name": "Dale Gould",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$2,799.77",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 29,
+        "name": "Langley Vargas",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$1,292.84",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 30,
+        "name": "Hill Mann",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$3,279.15",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 31,
+        "name": "Marilyn Shepard",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$1,898.22",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 32,
+        "name": "Leonor Hoover",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$3,862.94",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 33,
+        "name": "Lucy Berg",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$1,728.91",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 34,
+        "name": "Romero Marquez",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$2,286.91",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 35,
+        "name": "Howe Vega",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$2,503.00",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 36,
+        "name": "Hinton Haney",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$1,903.26",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 37,
+        "name": "Margie Adams",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$3,480.85",
+        "favoriteFruit": "apple"
+      },
+      {
+        "id": 38,
+        "name": "Camacho Lester",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$2,971.23",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 39,
+        "name": "Caitlin Johnson",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "blue",
+        "balance": "$3,528.78",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 40,
+        "name": "Danielle Davidson",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$1,693.25",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 41,
+        "name": "Rosario Pearson",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$3,836.83",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 42,
+        "name": "Cherry Anderson",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$3,422.51",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 43,
+        "name": "Stout Mccarthy",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$3,524.61",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 44,
+        "name": "Diaz Garner",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "green",
+        "balance": "$2,285.64",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 45,
+        "name": "Janice Whitney",
+        "gender": "female",
+        "isActive": false,
+        "eyeColor": "green",
+        "balance": "$2,355.49",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 46,
+        "name": "Helene Young",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$1,718.22",
+        "favoriteFruit": "strawberry"
+      },
+      {
+        "id": 47,
+        "name": "Hooper Case",
+        "gender": "male",
+        "isActive": false,
+        "eyeColor": "brown",
+        "balance": "$3,174.49",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 48,
+        "name": "Skinner William",
+        "gender": "male",
+        "isActive": true,
+        "eyeColor": "brown",
+        "balance": "$1,979.57",
+        "favoriteFruit": "banana"
+      },
+      {
+        "id": 49,
+        "name": "Darla Carney",
+        "gender": "female",
+        "isActive": true,
+        "eyeColor": "blue",
+        "balance": "$2,960.46",
+        "favoriteFruit": "apple"
+      }
+    ]
+  }
+]
